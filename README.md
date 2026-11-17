@@ -1,4 +1,4 @@
-## Hi there 👋
+![Sergio At Work banner](saw_banner.png)
 
 <!--
 **sergioatwork/sergioatwork** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
